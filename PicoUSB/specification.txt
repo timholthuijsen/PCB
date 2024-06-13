@@ -1,0 +1,6 @@
+1- RP2040 microcontroller chip designed by Raspberry Pi
+2- Dual-core Arm Cortex M0+ processor, the flexible clock running up to 133 MHz
+3- 264KB of SRAM, and 2MB of onboard Flash memory
+4- 26 × multi-function GPIO pins
+5- 2 × SPI, 2 × I2C, 2 × UART, 3 × 12-bit ADC, 16 × controllable PWM channels
+6- Onboard temperature sensor

@@ -1,0 +1,4 @@
+Step 1: Download and Install Thonny IDE from given link: https://thonny.org/
+
+
+Step 2: Download Thonny Pico Plugin: https://github.com/raspberrypi/thonny-pico/releases/tag/v0.2 
